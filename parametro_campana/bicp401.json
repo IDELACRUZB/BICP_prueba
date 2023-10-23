@@ -1,0 +1,26 @@
+{
+    "blindaje":{
+        "bpoXpath": "//input[@type=\"checkbox\" and @label=\"OUTBPOPERETENSF\"]",
+        "txtCampana": "OUTBPOPERETEN",
+        "campaignXpath": "//input[@type=\"checkbox\" and @label=\"OUTBPOPERETENMOVSF01\"]",
+        "xpathAgentWorkgroup": "//input[@type=\"checkbox\" and @label=\"1034^OUTBPOPERETENSF\"]"
+    },
+    "recuperoInbound":{
+        "bpoXpath": "//input[@type=\"checkbox\" and @label=\"BPOPERETENCIONOUT\"]",
+        "txtCampana": "BPOPERETENCIONOUT",
+        "campaignXpath": "//input[@type=\"checkbox\" and @value=\"selectAll\"]",
+        "xpathAgentWorkgroup": null
+    },
+    "contactados":{
+        "bpoXpath": "//input[@type=\"checkbox\" and @label=\"OUTBPOPEPREVENPOSTREDSF\"]",
+        "txtCampana": "OUTBPOPEPREVENPOSTREDMOVSF",
+        "campaignXpath": "//input[@type=\"checkbox\" and @value=\"selectAll\"]",
+        "xpathAgentWorkgroup": null
+    },
+    "appMiClaro":{
+        "bpoXpath": "//input[@type=\"checkbox\" and @label=\"OUTBPOPEMICLAROSF\"]",
+        "txtCampana": "OUTBPOPEMICLARO01SF01",
+        "campaignXpath": "//input[@type=\"checkbox\" and @label=\"OUTBPOPEMICLARO01SF01\"]",
+        "xpathAgentWorkgroup": "//input[@type=\"checkbox\" and @label=\"1023^OUTBPOPEMICLAROSF\"]"
+    }
+}

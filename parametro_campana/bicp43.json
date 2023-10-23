@@ -1,0 +1,8 @@
+{
+    "retencionesInbound":{
+        "bpoXpath": "//li[@title=\"BPOPERURETENCION\"]"
+    },
+    "appMiClaro":{
+        "bpoXpath": "//li[@title=\"OUTBPOPEMICLAROSF\"]"
+    }
+}

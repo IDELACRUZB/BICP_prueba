@@ -1,0 +1,6 @@
+{
+    "retencionesInbound":{
+        "bpoXpath": "//input[@type=\"checkbox\" and @label=\"BPOPERURETENCION\"]",
+        "campaignXpath": "//li[@title=\"RETENCIONESMOVILES\"]/span"
+    }
+}

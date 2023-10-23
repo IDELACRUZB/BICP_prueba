@@ -1,0 +1,6 @@
+{
+    "retencionesInbound":{
+        "bpoXpath": "//li[@title=\"BPOPERURETENCION\"]/span[@class=\"icon\"]",
+        "campaignXpath": "//li[@title=\"RETENCIONESMOVILES\"]/span[@class=\"icon\"]"
+    }
+}

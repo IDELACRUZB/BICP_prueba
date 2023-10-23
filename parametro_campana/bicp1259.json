@@ -1,0 +1,18 @@
+{
+    "blindaje":{
+        "bpoXpath": "//input[@type=\"checkbox\" and @label=\"OUTBPOPERETENSF\"]",
+        "campaignXpath": null
+    },
+    "recuperoInbound":{
+        "bpoXpath":"//input[@type=\"checkbox\" and @label=\"BPOPERETENCIONOUT\"]",
+        "campaignXpath": null
+    },
+    "contactados":{
+        "bpoXpath": "//input[@type=\"checkbox\" and @label=\"OUTBPOPEPREVENPOSTREDSF\"]",
+        "campaignXpath": null
+    },
+    "appMiClaro":{
+        "bpoXpath": "//input[@type=\"checkbox\" and @label=\"OUTBPOPEMICLAROSF\"]",
+        "campaignXpath": null
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "blindaje":{
+        "blindaje_mov01": {
+            "bpoXpath": "//input[@type=\"radio\" and @label=\"OUTBPOPERETENSF\"]",
+            "activityXpath": "//input[@type=\"radio\" and @label=\"OUTBPOPERETENMOVSF01\"]",
+            "campaignXpath": "//input[@type=\"radio\" and @label=\"OUTBPOPERETENMOVSF01\"]",
+            "textoC": "OUTBPOPERETENMOVSF01"
+        },
+        "blindaje_mov02": {
+            "bpoXpath": "//input[@type=\"radio\" and @label=\"OUTBPOPERETENSF\"]",
+            "activityXpath": "//input[@type=\"radio\" and @label=\"OUTBPOPERETENMOVSF02\"]",
+            "campaignXpath": "//input[@type=\"radio\" and @label=\"OUTBPOPERETENMOVSF02\"]",
+            "textoC": "OUTBPOPERETENMOVSF02"
+        },
+        "blindaje_bit03": {
+            "bpoXpath": "//input[@type=\"radio\" and @label=\"OUTBPOPERETENSF\"]",
+            "activityXpath": "//input[@type=\"radio\" and @label=\"OUTBPOPERETENBITSF03\"]",
+            "campaignXpath": "//input[@type=\"radio\" and @label=\"OUTBPOPERETENBITSF03\"]",
+            "textoC": "OUTBPOPERETENBITSF03"
+        }
+    },
+    "appMiClaro":{
+        "appMiClaro": {
+            "bpoXpath": "//input[@type=\"radio\" and @label=\"OUTBPOPEMICLAROSF\"]",
+            "activityXpath": "//input[@type=\"radio\" and @label=\"OUTBPOPEMICLARO01SF01\"]",
+            "campaignXpath": "//input[@type=\"radio\" and @label=\"OUTBPOPEMICLARO01SF01\"]",
+            "textoC": "OUTBPOPEMICLARO01SF01"
+        }
+    }
+}

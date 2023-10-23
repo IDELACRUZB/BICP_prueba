@@ -1,0 +1,6 @@
+{
+    "retencionesInbound":{
+        "bpoXpath": "//li[@class='ui-menu-item']/a[@title='BPOPERURETENCION']",
+        "xpathAgentWorkgroup": "//li[@title='1070^BPOPERURETENCION']/span"
+    }
+}
