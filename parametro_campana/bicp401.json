@@ -11,7 +11,7 @@
         "campaignXpath": "//input[@type=\"checkbox\" and @value=\"selectAll\"]",
         "xpathAgentWorkgroup": null
     },
-    "contactados":{
+    "contactado":{
         "bpoXpath": "//input[@type=\"checkbox\" and @label=\"OUTBPOPEPREVENPOSTREDSF\"]",
         "txtCampana": "OUTBPOPEPREVENPOSTREDMOVSF",
         "campaignXpath": "//input[@type=\"checkbox\" and @value=\"selectAll\"]",

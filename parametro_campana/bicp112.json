@@ -2,7 +2,7 @@
     "blindaje":{
         "bpoXpath": "//input[@type=\"checkbox\" and @label=\"OUTBPOPERETENSF\"]"
     },
-    "contactados":{
+    "contactado":{
         "bpoXpath": "//input[@type=\"checkbox\" and @label=\"OUTBPOPEPREVENPOSTREDSF\"]"
     },
     "retencionesInbound":{

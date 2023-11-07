@@ -7,7 +7,7 @@
         "bpoXpath":"//input[@type=\"checkbox\" and @label=\"BPOPERETENCIONOUT\"]",
         "campaignXpath": null
     },
-    "contactados":{
+    "contactado":{
         "bpoXpath": "//input[@type=\"checkbox\" and @label=\"OUTBPOPEPREVENPOSTREDSF\"]",
         "campaignXpath": null
     },
