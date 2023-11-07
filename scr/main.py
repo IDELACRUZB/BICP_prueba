@@ -2,6 +2,7 @@ from web_scraper import descargaReportes
 import datetime
 import json
 import time
+import subprocess
 
 
 #Rango de fechas para descarga de Reportes
@@ -241,3 +242,6 @@ for campana, parametros in parametros418.items():
 
 descarga.cerrarSesion()
 descarga.gameOver()
+
+# Paso 2: Carga la base de datos al servidor
+subprocess.call(['python', './importador/controller.py'])
